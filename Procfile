@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run CDV_2020.py
